@@ -3,10 +3,10 @@ wouso-content
 
 Repository for WoUSO Content
 
-Cum raporteaz un bug?
+Cum raportez un bug?
 =====================
 
-Pentru a raporta un bug urmați următoarea secveță de pași:
+Pentru a raporta un bug urmați secvența de pași:
 
 * Vă log-ați pe contul vostru de GitHub. În caz că nu aveți cont, puteți sa vă
   creați de [aici] [1].
