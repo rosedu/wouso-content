@@ -58,7 +58,7 @@ VIII. Altele
 ------------
 
 Pentru a raporta probleme și buguri ale WoUSO, vă rugăm să folosiți issue tracker-ele din GitHub. Raportarea de bug-uri valide conduce la obținerea de bani. Informații despre cum se pot raporta bug-uri se găsesc [aici] [1].
-[1] https://github.com/rosedu/wouso-content/wiki/Cum-Raportez-un-bug%3F "aici"
+[1]: https://github.com/rosedu/wouso-content/wiki/Cum-Raportez-un-bug%3F "aici"
 
 De asemenea, pentru a câștiga bani pentru vrăji și schimburi puteți propune întrebări pentru “Întrebarea zilei” (Question of the Day), “Provocare” (Challenge) sau “Quest”.
 
