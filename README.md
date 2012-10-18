@@ -1,7 +1,9 @@
 wouso-content
 =============
 
-Repository for WoUSO Content
+[Wiki World of USO] [2]
+[2]: https://github.com/rosedu/wouso-content/wiki "Wiki World of USO"
+
 
 Cum raportez un bug?
 =====================
