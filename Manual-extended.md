@@ -49,8 +49,7 @@ O provocare poate fi rulată asincron și fiecare dintre cei doi jucători are u
 Cele 5 întrebări ale unei provocări au pondere egală - valoarea 100. Se poate obține, astfel, maxim valoarea 500 pentru un challenge. Se compară valorile obținute de cei doi concurenți și cel cu valoarea mai mare câștigă. Timpul în care se răspunde la cele 5 întrebări nu are impact în matematica punctelor; nu are relevanță dacă termini în 30 de secunde sau în 4 minute și 59 de secunde.
 
 Pentru o întrebare dată se calculează punctajul ponderat la răspunsurile corecte și incorecte, după formula:
-
-> Punctaj_intrebare = (NRCU / NRC - NRGU/NRG) * 100
+	Punctaj_intrebare = (NRCU / NRC - NRGU/NRG) * 100
 
 unde:
 
@@ -64,22 +63,22 @@ unde:
 Astfel, pentru o întrebare cu 7 variante de răspuns, dintre care 4 corecte și 3 greșite:
 
 * dacă un utilizator selectează 2 variante corecte (și dor atât), va obține
-> Punctaj_intrebare = (2/4 - 0/3) * 100 = 50
+	Punctaj_intrebare = (2/4 - 0/3) * 100 = 50
 * dacă un utilizator selectează toate cele 4 variante corecte, va obține
-> Punctaj_intrebare = (4/4 - 0/3) * 100 = 100
+	Punctaj_intrebare = (4/4 - 0/3) * 100 = 100
 * dacă un utilizator selectează 3 variante corecte și 2 greșite, va obține
-> Punctaj_intrebare = (3/4 - 2/3) * 100 = 9
+	Punctaj_intrebare = (3/4 - 2/3) * 100 = 9
 * dacă un utilizator selectează 2 variante greșite, va obține
-> Punctaj_intrebare = (0/4 - 2/3) * 100 = -66 (punctaj negativ)
+	Punctaj_intrebare = (0/4 - 2/3) * 100 = -66 (punctaj negativ)
 * dacă un utilizator selectează toate cele 3 variante greșite, va obține
-> Punctaj_intrebare = (0/4 - 3/3) * 100 = -100 (punctaj negativ)
+	Punctaj_intrebare = (0/4 - 3/3) * 100 = -100 (punctaj negativ)
 * dacă un utilizator face check pe toate variantele
-> Punctaj_intrebare = (4/4 - 3/3) * 100 = 0 (punctaj nul)
+	Punctaj_intrebare = (4/4 - 3/3) * 100 = 0 (punctaj nul)
 
 Dacă cei doi concurenți obțin același rezultat, cele 30 de  puncte puse în joc sunt returnate fiecăruia.
 
 Numărul de puncte obținut de câștigător se calculează după formula:
-> 30 + min[30 + N, (30 + N) * Y / X]
+	30 + min[30 + N, (30 + N) * Y / X]
 unde
 * N = punctaj bonus(10 pentru aceeași grupă, 20 pentru aceeași serie, 30 pentru serii diferite)
 * X = punctajul câștigătorului
@@ -87,9 +86,9 @@ unde
 
 Exemple
 * exemplul 1: Gigel are 400 de puncte, iar colegul lui de grupă, Martinel, are 4000 de puncte. Martinel câștigă provocarea împotriva lui Gigel și astfel va câștiga:
-> 30 + min(30 + 10, (30 + 10) * 400 / 4000) = 30(cele puse în joc) + min(40,  4) = 34
+	30 + min(30 + 10, (30 + 10) * 400 / 4000) = 30(cele puse în joc) + min(40,  4) = 34
 * exemplul 2: Vasilică are 700 de puncte și câștigă provocarea împotriva colegului său dintr-o altă serie care are 7000 de puncte. Astfel, Vasilică o să câștige:
-> 30 + min(30 + 30, (30 + 30) * 7000 / 700) = 30(cele puse în joc) + min(60, 600) = 90
+	30 + min(30 + 30, (30 + 30) * 7000 / 700) = 30(cele puse în joc) + min(60, 600) = 90
 
 Pentru a preveni "farming"-ul de puncte, jocul limitează provocările cu jucători aflați la o anumită distanță în clasament. Presupunem că un jucător X provoacă un jucător Y. Fie D diferența de poziție dintre X și Y (în modul). Jocul impune următoarele:
 * Dacă D <= 10, atunci X îl poate provoca pe Y și în ziua următoare.
@@ -99,7 +98,7 @@ Pentru a preveni "farming"-ul de puncte, jocul limitează provocările cu jucăt
 * Dacă 60 < D (fără limită superioară), atunci nu îl poate provoca în următoarele 6 zile (provocarea poate avea loc doar la nivel de săptămână, în acest caz).
 
 Vrăjile se aplică numai pe punctele câștigate dintr-o provocare, nu și pe cele puse la bătaie de fiecare jucător. Astfel, dacă un jucător are o vrajă de tipul "câștigă cu 50% mai mult", pe exemplul 1  descris mai sus, punctajul obținut va fi
-> 30  + 4 * (1 + 1.5) = 30 + 4*2.5 = 40.
+	30  + 4 * (1 + 1.5) = 30 + 4*2.5 = 40.
 
 IV. Weekly Quest
 ----------------
@@ -128,10 +127,10 @@ Spre deosebire de Weekly Quest, aveți la dispoziție o mașină virtuală în c
 Quest-ul final cuprinde cele mai dificile task-uri și are o durată mai lungă decât celelalte quest-uri. Punctajul obținut este mai mare pentru nivelurile superioare și depinde de numărul de jucători ce au ajuns la un anumit nivel; altfel spus, un nivel oferă un punctaj care se împarte participanților ce au atins acel nivel.
 
 Punctajul aferent fiecărui nivel din quest este:
-> ([(x + 1)/3] + 1) * 20, unde x este nivelul din Quest
+	([(x + 1)/3] + 1) * 20, unde x este nivelul din Quest
 
 Fiecare nivel are asociat un pool de puncte după următoarea formulă:
-> 200 + 50 * (x + 1), unde x este nivelul din Quest
+	200 + 50 * (x + 1), unde x este nivelul din Quest
 
 Acest punctaj este împărțit în mod egal (la finalul jocului) tuturor celor care au reușit să treacă de nivelul respectiv din Quest.
 
