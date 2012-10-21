@@ -66,8 +66,7 @@ Cure
 ----
 
 * **Id development**: cure
-* **Descriere**: poți să schimbi punctajul afișat, alterându-ul cu o valoarea cuprinsă în spațiul (-25%, +25%) din punctaj
-elimină vrăijle negative
+* **Descriere**: elimină vrăijle negative
 * **Tip vrajă**: pozitivă
 * **Cost**: 25
 
