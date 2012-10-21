@@ -1,10 +1,10 @@
 Punctajele prag pentru nivele sunt:
-* 920p
-* 1670p
-* 2770p
-* 4420p
-* 10670p
-* 16320p
-* 24820p
-* 37620p
+* Nivel 2: 920p
+* Nivel 3: 670p
+* Nivel 4: 2770p
+* Nivel 5: 4420p
+* Nivel 6: 10670p
+* Nivel 7: 16320p
+* Nivel 8: 24820p
+* Nivel 9: 37620p
 

@@ -184,6 +184,16 @@ Platforma pune la dispoziție un modul pentru transmiterea mesajelor private. As
 X. Altele
 ---------
 
+Punctajele prag pentru nivele sunt:
+* Nivel 2: 920p
+* Nivel 3: 670p
+* Nivel 4: 2770p
+* Nivel 5: 4420p
+* Nivel 6: 10670p
+* Nivel 7: 16320p
+* Nivel 8: 24820p
+* Nivel 9: 37620p
+
 Pentru întrebări, discuții, observații legate de joc, vom folosi forumul WoUSO, disponibil pe cs.curs.pub.ro. Pe acest forum veți putea solicita acceptarea echipelor pentru Special Quest.
 
 Urmăriți, de asemenea, știrile afișate în cadrul paginii de știri a portalului WoUSO.

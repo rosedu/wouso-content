@@ -57,6 +57,16 @@ Platforma pune la dispoziție un modul pentru transmiterea mesajelor private. As
 VIII. Altele
 ------------
 
+Punctajele prag pentru nivele sunt:
+* Nivel 2: 920p
+* Nivel 3: 670p
+* Nivel 4: 2770p
+* Nivel 5: 4420p
+* Nivel 6: 10670p
+* Nivel 7: 16320p
+* Nivel 8: 24820p
+* Nivel 9: 37620p
+
 Pentru a raporta probleme și buguri ale WoUSO, vă rugăm să folosiți issue tracker-ele din GitHub. Raportarea de bug-uri valide conduce la obținerea de bani. Informații despre cum se pot raporta bug-uri se găsesc [aici] [1].
 [1]: https://github.com/rosedu/wouso-content/wiki/Cum-Raportez-un-bug%3F "aici"
 
