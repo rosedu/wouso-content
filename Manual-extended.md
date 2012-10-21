@@ -127,9 +127,11 @@ Spre deosebire de Weekly Quest, aveți la dispoziție o mașină virtuală în c
 Quest-ul final cuprinde cele mai dificile task-uri și are o durată mai lungă decât celelalte quest-uri. Punctajul obținut este mai mare pentru nivelurile superioare și depinde de numărul de jucători ce au ajuns la un anumit nivel; altfel spus, un nivel oferă un punctaj care se împarte participanților ce au atins acel nivel.
 
 Punctajul aferent fiecărui nivel din quest este:
+
 	([(x + 1)/3] + 1) * 20, unde x este nivelul din Quest
 
 Fiecare nivel are asociat un pool de puncte după următoarea formulă:
+
 	200 + 50 * (x + 1), unde x este nivelul din Quest
 
 Acest punctaj este împărțit în mod egal (la finalul jocului) tuturor celor care au reușit să treacă de nivelul respectiv din Quest.
