@@ -59,7 +59,7 @@ Denumire niveluri
 9. Mentalist
 10. Transcend
 
-h3. Zota
+**Zota**
 
 1. Matelot/Sailor
 2. Navigator
@@ -72,7 +72,7 @@ h3. Zota
 9. Mach
 10. Teleportor/Teleporter
 
-h3. Nifes
+**Nifes**
 
 1. Calfă/Journeyman
 2. Tâmplar/Carpenter
