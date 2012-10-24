@@ -59,7 +59,7 @@ VIII. Altele
 
 Punctajele prag pentru nivele sunt:
 * Nivel 2: 920p
-* Nivel 3: 670p
+* Nivel 3: 1670p
 * Nivel 4: 2770p
 * Nivel 5: 4420p
 * Nivel 6: 10670p
