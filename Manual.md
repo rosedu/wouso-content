@@ -35,6 +35,10 @@ Weekly Quest stimulează gândirea "out of the box", are loc săptămânal și c
 
 Rezolvarea cel puțin a unei întrebări conduce la obținerea de puncte, ce cresc odată cu numarul de întrebări rezolvate.
 
+În cazul în care sunt întâmpinate dificultăți în depășirea obstacolelor, jucătorii pot cere ajutor pe forumul de USO, secțiunea WoUSO.
+Acolo, ajutorul spiritelor va fi disponibil de la ora 10:00 la 23:59, în zilele cu Quest-ul de rigoare. De asemenea, nu se pot cere hint-uri până când nu au trecut cel puțin 2 x L ore de la începutul evenimentului, unde L este nivelul quest-ului.
+Astfel, pentru nivelul 1, se poate cere ajutor după 2 ore, pentru nivelul 4 după 4 ore, 3 - 6 ore ș.a.m.d.
+
 V. Special Quest
 ----------------
 
