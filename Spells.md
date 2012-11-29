@@ -36,31 +36,31 @@ Paralyze
 * **Id development**: challenge-cannot-challenge
 * **Descriere**: nu poți lansa provocări (dar poți primi)
 * **Tip vrajă**: proprie
-* **Cost**: 15
+* **Cost**: 10
 
 Weakness
 --------
 
 * **Id development**: challenge-affect-scoring-lost
-* **Descriere**: câștigi mai puțin cu -50% din provocările câștigate
+* **Descriere**: câștigi mai puțin cu -66% din provocările câștigate
 * **Tip vrajă**: negativă
-* **Cost**: 20
+* **Cost**: 15
 
 Charge
 ------
 
 * **Id development**: challenge-affect-scoring-won
-* **Descriere**: câștigi mai mult cu +50% din provocările câștigate
+* **Descriere**: câștigi mai mult cu +33% din provocările câștigate
 * **Tip vrajă**: pozitivă
-* **Cost**: 25
+* **Cost**: 30
 
 Frenzy
 ------
 
 * **Id development**: challenge-affect-scoring
-* **Descriere**: câștigi cu +100% din provocările câștigate și pierzi cu +100% mai mult din provocările pierdute
+* **Descriere**: câștigi cu +66% din provocările câștigate și pierzi cu +66% mai mult din provocările pierdute
 * **Tip vrajă**: neutră
-* **Cost**: 20
+* **Cost**: 25
 
 Cure
 ----
@@ -92,13 +92,13 @@ Blind
 * **Id development**: qotd-blind
 * **Descriere**: nu poți lansa question of the day
 * **Tip vrajă**: negativă
-* **Cost**: 10
+* **Cost**: 5
 
 Evade
 -----
 
 * **Id development**: challenge-evade
-* **Descriere**: ai 33% șansă să nu ți se ia puncte în urma pierderii unei provocări
+* **Descriere**: ai 20% șansă să nu ți se ia puncte în urma pierderii unei provocări
 * **Tip vrajă**: pozitivă
 * **Cost**: 25
 
@@ -107,4 +107,4 @@ Vrăjile de tip mass
 
 Toate vrăjile, mai puțin cele proprii, pot fi **mass**, date pe mai mulți jucători. O vrajă de tip **mass** afectează și pe următorii și precedenții 2 jucători din jurul celui care primește vraja (un total de 5 jucători afectați); jucători adverși pentru negative, proprii pentru pozitive și oricare pentru neutre.
 
-O vrajă de tip **mass** durează 3 zile. Costul ei este dublul costului vrajei simple.
+O vrajă de tip **mass** durează 5 zile. Costul ei este dublul costului vrajei simple.
