@@ -4,7 +4,7 @@ Grand Challenge
 I. Informații de bază
 ---------------------
 
-Grand Challenge reprezintă modalitatea prin care primii 16 jucători (momentan primii 16 în funcție de punctajele obținute pe parcurs) vor concura pentru obținerea de puncte și pentru a demonstra care dintre ei este învingătorul suprem. 
+Grand Challenge reprezintă modalitatea prin care primii 16 jucători (momentan primii 16 în funcție de punctajele obținute pe parcurs) vor concura pentru obținerea de puncte și pentru a demonstra care dintre ei este învingătorul suprem.
 
 Fiecare etapa presupune gruparea jucătorilor în grupe de câte 2, fiecare grupă având un set de 5 întrebări comune. Câștigătorul va avansa la etapa următoare ce se va juca după ce toți jucătorii termină de rulat etapa curentă, până când rămâne doar un singur jucător ce va fi desemnat învingătorul Grand Challenge-ului. Pe tot parcursul concursului, progresul jucătorilor va putea fi văzut de către toți ceilalți sub formă piramidală.
 
