@@ -40,6 +40,10 @@ O provocare constă din 5 întrebări cu variante multiple și cu mai multe vari
 
 Un jucător poate lansa o singură provocare în fiecare zi însă poate să accepte oricâte.
 
+Oricare 2 jucători pot lansa unul către celălalt maxim 2 provocări într-un interval de 24 de ore.
+
+Pentru a putea lansa o provocare către un jucător, acesta trebuie să fie în aceeași divizie cu tine. Divizia unui jucător este formată din acei jucători ce se află la cel mult 20 de poziții distanță în clasamentul general față de acesta.
+
 Costul lansării sau acceptării unei provocări este de 30 de puncte. Practic, fiecare concurent pune în joc 30 de puncte. În momentul lansării provocării sunt extrase 30 de puncte din contul fiecărui participant.
 
 Pentru a fi rulată, o provocare trebuie să fie acceptată. Rularea provocării trebuie realizată pe parcursul aceleiași zile. Dacă la finalul zilei, cel puțin unul dintre jucători nu a rulat provocarea, atunci aceasta este anulată, iar cele 30 de puncte puse în joc sunt returnate fiecărui jucător.
